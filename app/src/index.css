@@ -12,8 +12,19 @@
   margin: auto;
   width: 500px;
   height: 500px;
-  background-color: rgba(36, 32, 34, 0.2);
+  background-color: rgba(36, 32, 34, 0.4);  
 }
+.card img{
+  padding: 20px;
+  height: 60px;
+  width: 100px;
+}
+
+.data{
+  padding: 15px;
+  color: white;
+}
+
 .search{  
   display: flex;
   justify-content: center;
